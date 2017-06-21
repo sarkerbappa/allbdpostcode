@@ -1,5 +1,11 @@
 {
     "name": "sarkerbappa/allbdpostcode",
+     "repositories": [
+    {
+      "type": "path",
+      "url": "../packages/sarkerbappa/allbdpostcode"
+    }
+  ],
     "description": "All District,Upozila and Post code infrmation of Bangladesh",
     "type": "metapackage",
     "license": "MTI",
@@ -21,6 +27,7 @@
             "Sarkerbappa\\": "src/Sarkerbappa"
         }
     },
-    "minimum-stability": "dev"
+     "minimum-stability": "dev",
+     "prefer-stable": true
 
 }
