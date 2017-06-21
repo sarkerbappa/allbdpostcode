@@ -9,6 +9,6 @@
             "email": "subrata.sarkar88@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
-    "require": {}
+    "minimum-stability": "stable"
+
 }
