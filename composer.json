@@ -21,7 +21,7 @@
             "Sarkerbappa\\": "src/Sarkerbappa"
         }
     },
-     "minimum-stability": "dev",
+     "minimum-stability": "stable",
      "prefer-stable": true
 
 }
