@@ -3,7 +3,7 @@
      "repositories": [
     {
       "type": "path",
-      "url": "https://github.com/sarkerbappa/allbdpostcode"
+      "url": "/sarkerbappa/allbdpostcode"
     }
   ],
     "description": "All District,Upozila and Post code infrmation of Bangladesh",
@@ -18,7 +18,7 @@
     
      "autoload": {
         "psr-4": {
-            "Sarkerbappa\\": "src/Sarkerbappa"
+            "Sarkerbappa\\Allbdpostcode": "src/Sarkerbappa"
         }
     },
      "minimum-stability": "stable",
