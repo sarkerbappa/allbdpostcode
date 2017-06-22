@@ -18,8 +18,13 @@
     
      "autoload": {
         "psr-4": {
-             "Sarkerbappa\\Allbdpostcode\\": "src/Allbdpostcode"
+             "Sarkerbappa\\Allbdpostcode\\": "src"
+        },
+     "autoload-dev": {
+        "psr-4": {
+            "Sarkerbappa\\Allbdpostcode\\": "Tests"
         }
+    },
        
          
     },
