@@ -18,7 +18,7 @@
     
      "autoload": {
         "psr-4": {
-             "Sarkerbappa\\": "src/"
+             "Sarkerbappa\\allbdpostcode\\": "src/"
         }
     },
      "minimum-stability": "dev",
