@@ -18,8 +18,8 @@
     
      "autoload": {
         "psr-4": {
-             "Sarkerbappa\\Allbdpostcode\\": "src\"
-        }},
+             "Sarkerbappa\\Allbdpostcode\\": "src\",
+        },
          
    
          
