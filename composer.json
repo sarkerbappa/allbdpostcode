@@ -19,7 +19,7 @@
      "autoload": {
         "psr-4": {
              "Sarkerbappa\\Allbdpostcode\\": "src"
-        },
+        }},
          
      "autoload-dev": {
         "psr-4": {
