@@ -9,6 +9,8 @@
     "description": "All District,Upozila and Post code infrmation of Bangladesh",
     "type": "metapackage",
     "license": "MTI",
+    
+    
     "authors": [
         {
             "name": "Bappa sarkar",
@@ -17,11 +19,9 @@
     ],
     
      "autoload": {
-         
         "psr-4": {
-             "Sarkerbappa\\Allbdpostcode\\": "src\",
+             "Sarkerbappa\\Allbdpostcode\\": "src\"
         }
-         
      },
           
      "minimum-stability": "dev",
